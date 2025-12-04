@@ -178,4 +178,3 @@ MIT License - Free to use and modify
 
 ---
 
-Built with ❤️ using Python and Deep Learning
